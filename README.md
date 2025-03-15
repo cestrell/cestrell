@@ -1,6 +1,7 @@
 hey 👋
 
 🌱 currently learning network stuff. nas raid storage setups.
+
 💬 ask me about dotfiles. and spotify.
 
 
@@ -21,6 +22,5 @@ eternal student. always relearning. always changing.
 - ![django](https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white)
 - ![flask](https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white)
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=cestrell.cestrell)
-[![github stats](https://github-readme-stats.vercel.app/api?username=cestrell&show_icons=true)](https://github.com/cestrell)
-[![github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cestrell)](https://github.com/cestrell)
+![visitors](https://komarev.com/ghpvc/?username=cestrell&color=blue)
+[![github stats](https://github-readme-stats.vercel.app/api?username=cestrell&show_icons=true)](https://github.com/cestrell
